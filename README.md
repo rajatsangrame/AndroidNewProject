@@ -1,4 +1,7 @@
-#Android Project Template
+# Android Project Template
+
+#### Clone this project and change the package name
+ 
 
 [Stakoverflow: How to change the package name of the project](https://stackoverflow.com/questions/16804093/rename-package-in-android-studio)
 
