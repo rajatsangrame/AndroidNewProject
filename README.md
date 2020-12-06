@@ -1,9 +1,9 @@
-# Android Project Template
+# Android New Project
 
 #### Clone this project and change the package name
  
 
-[Stakoverflow: How to change the package name of the project](https://stackoverflow.com/questions/16804093/rename-package-in-android-studio)
+[Stackoverflow: How to change the package name of the project](https://stackoverflow.com/questions/16804093/rename-package-in-android-studio)
 
 #### Libraries Used
 - [Kotlin](https://kotlinlang.org/)

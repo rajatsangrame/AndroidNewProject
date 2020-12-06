@@ -6,7 +6,7 @@ buildscript {
         jcenter()
     }
     dependencies {
-        classpath "com.android.tools.build:gradle:4.0.0"
+        classpath 'com.android.tools.build:gradle:4.1.1'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
 
         // NOTE: Do not place your application dependencies here; they belong
@@ -25,18 +25,18 @@ task clean(type: Delete) {
     delete rootProject.buildDir
 }
 ext {
-    appcompat_verison = '1.1.0'
-    material_version = '1.1.0'
+    appcompat_verison = '1.2.0'
+    material_version = '1.2.1'
     recycler_view_version = '1.1.0'
-    constraint_layout_version = '1.1.3'
+    constraint_layout_version = '2.0.4'
     lifecycle_version = '2.2.0'
     room_version = '2.2.5'
     gson_verison = '2.8.6'
-    espresso_version = '3.2.0'
+    espresso_version = '3.3.0'
     junit_version = '4.13'
-    junit_runner_version = '1.2.0'
+    junit_runner_version = '1.3.0'
     dagger2 = "2.26"
-    junit_ext_version = '1.1.1'
+    junit_ext_version = '1.1.2'
     retrofit_version = "2.6.0"
     retrofit_rx_java = "2.3.0"
     okhttp_version = "4.3.1"
